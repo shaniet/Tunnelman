@@ -1,1 +1,3 @@
 # Tunnelman
+
+Built a real time game where a player, TunnelMan, is placed on a 2d platform in order to pick up all of the provided oil barrels to continue to the next level. The TunnelMan is chased by potestors who try and kill our player, but the player can pick up helpful items along the way to help beat the level. Using data structures such as polymorphism, inheritance, searching and sorting, and many others, I created charecters that can interact with each other in specfic ways, and find optimal paths to desired destinations. This code was develped in C++ using Xcode on a mac computer and will likely only build using the same environment.
